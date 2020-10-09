@@ -1,0 +1,13 @@
+.buttonMain{
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+button{
+    background-color:#e7532d ;
+    border: none;
+    color: white;
+    font-size: 20px;   
+    padding: 20px 20px;
+}
